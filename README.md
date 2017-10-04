@@ -1,3 +1,4 @@
 
 # proyecto_laravel
-holaaaaaaaaaaaaaa
+Practicando con el git para nuevos proyecto de trabajos..
+Holaaaaaaaaaaaaaaaaaaaaaaaa
